@@ -1,0 +1,16 @@
+.black-container{
+    background-color: black;
+    color: aliceblue;
+}
+.back-img-home{
+    background:url(https://keraladayz.com/wp-content/uploads/2021/12/Car-Rental-2.png);
+    background-size: cover;
+    height: 85vh;
+    width: 100vw;
+}
+.header-color{
+    color: aliceblue;
+}
+.card-img-hw{
+    height: 100%;
+}
